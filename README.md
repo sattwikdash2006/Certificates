@@ -19,9 +19,8 @@ Welcome to my certificate repository! Here are the professional credentials and 
 ---
 
 ## 🤖 Google Prompting Essentials
-*Mastered prompt engineering and AI communication skills through 4 focused courses.*
 
-1. [Course 1: Start Writing Prompts like a Pro]()
-2. [Course 2: Design Prompts for Everyday Work Tasks]()
-3. [Course 3: Speed Up Data Analysis and Presentation Building]()
-4. [Course 4: Use AI as a Creative or Expert Partner]()
+1. [Start Writing Prompts like a Pro](./Start%20Writing%20Prompts%20like%20a%20Pro%20C1%20AI.pdf)
+2. [Design Prompts for Everyday Work Tasks](./Design%20Prompts%20for%20Everyday%20Work%20Tasks%20C2%20AI.pdf)
+3. [Speed Up Data Analysis and Presentation Building](./Speed%20Up%20Data%20Analysis%20and%20Presentation%20Building%20C3%20AI.pdf)
+4. [Use AI as a Creative or Expert Partner](./Use%20AI%20as%20a%20Creative%20or%20Expert%20Partner%20C4%20AI.pdf)
